@@ -1,0 +1,427 @@
+@media(max-width:1505px) {
+    .fixwidth {
+        padding: 0px 50px;
+        margin: auto;
+    }
+
+
+    .headertop {
+        grid-template-columns: 10% 100%;
+    }
+
+    .sub88 textarea {
+
+width: 100%;
+
+height: 267px;
+
+}
+
+    .subcc h6 {
+        font-size: 13px;
+
+    }
+
+    .subcc {
+        padding: 70px 91px;
+    }
+
+    .subcc h1 {
+        font-size: 26px;
+    }
+
+    .fhone {
+        padding: 0px 24px;
+    }
+
+
+}
+
+@media(max-width:1300px) {
+    .maindis44 {
+        grid-template-columns: 50% 50%;
+
+    }
+
+    .fasteducatio {
+        grid-template-columns: 60% 40%;
+        display: block;
+    }
+
+    .tohid h2 {
+
+        font-size: 15px;
+    }
+
+    .icondiv i {
+        line-height: 52px;
+        font-size: 23px;
+
+    }
+
+    .icondiv {
+        width: 50px;
+        height: 50px;
+    }
+
+}
+
+@media(max-width:996px) {
+    .header-right ul li a {
+
+        font-size: 10px;
+
+    }
+
+    .subcc {
+        padding: 70px 43px;
+    }
+
+    .fhone {
+        padding: 0px 41px;
+    }
+
+    .div2 {
+        margin-left: 64px;
+    }
+
+    .log {
+        height: 40px;
+        width: 40px;
+
+        line-height: 43px;
+
+    }
+
+    .fhone h4 {
+        font-size: 11px;
+
+    }
+
+    .log i {
+
+        font-size: 22px;
+
+    }
+
+    .fastskils b {
+
+        padding: 9px 25px;
+    }
+
+    .fastskils h1 {
+
+        font-size: 24px;
+    }
+
+    .towdiv p {
+        font-size: 10px;
+
+    }
+
+    .fastdiv h1 {
+
+        font-size: 24px;
+    }
+
+    .footer h3 {
+
+        padding: 26px 0px;
+    }
+
+    .sub66 {
+        height: 41px;
+        width: 41px;
+
+        line-height: 48px;
+
+
+    }
+
+    .childdiv p {
+        line-height: 27px;
+        padding-top: 20px;
+    }
+
+    .onediv {
+
+        margin-top: 20px;
+        margin-right: 4px;
+    }
+
+    .mainrr {
+        display: block;
+    }
+
+    .childdiv {
+        background: white;
+        padding: 35px;
+        margin-right: 34px;
+        box-shadow: 2px 1px 20px 13px #dbe2f594;
+        margin-bottom: 36px;
+    }
+
+    .sub66 i {
+        font-size: 23px;
+        color: #6C6E85;
+        transition: .8s;
+    }
+
+}
+
+@media(max-width:745px) {
+    .resume44 {
+
+        display: block;
+    }
+
+    .allimg {
+
+        display: block;
+    }
+
+    .fastdiv ul li {
+        padding: 43px 23px 26px 0px;
+
+        font-size: 14px;
+    }
+
+    .imgpp img {
+        margin-bottom: 40px;
+    }
+
+    .fastdiv h1 {
+        font-size: 19px;
+    }
+
+    .fstdiv {
+
+        margin-bottom: 45px;
+    }
+
+    .maindis44 {
+
+        display: block;
+
+    }
+
+    .fasteducatio {
+
+        display: block;
+    }
+
+    .childdiv {
+
+        margin-bottom: 45px;
+    }
+
+    .sub88 textarea {
+        width: 98%;
+    }
+
+    .maindd {
+        display: block;
+    }
+
+    .sub88 textarea {
+
+        margin-left: 0px;
+
+    }
+
+    .emailadress {
+
+        display: block;
+    }
+
+    .formdiv {
+
+        padding: 33px;
+
+    }
+
+    .onediv img {
+        width: 85px;
+    }
+
+    .header-right ul li a {
+        font-size: 9px;
+    }
+
+    .banar h1 {
+        font-size: 50px;
+
+    }
+
+    .fastdiv ul li {
+
+        font-size: 12px;
+    }
+    .sub88 {
+        width: 100%;
+    }
+
+}
+
+@media(max-width:678px) {
+    .fixwidth {
+        max-width: 100%;
+        padding: 0px 13px;
+        overflow-x: hidden;
+    }
+
+    .header-left {
+
+        margin: auto;
+    }
+
+    .headertop {
+
+        display: block;
+    }
+
+    .header-right ul li a {
+        font-size: 12px;
+        padding: 26px 2px;
+    }
+
+    .banar h1 {
+        font-size: 27px;
+    }
+
+    .down ul hr {
+        display: inline-block;
+        width: 46px;
+        position: relative;
+        bottom: 0px;
+        right: 0px;
+    }
+
+    .down ul li {
+        font-size: 4px;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .defoltbutton {
+
+        padding: 9px 14px;
+
+    }
+
+    .resune-righy b i {
+
+        left: -9px;
+        top: 18px;
+
+    }
+
+    .resune-righy b {
+
+        padding: 6px 9px;
+
+    }
+
+    .resune-righy h2 {
+        font-size: 14px;
+
+    }
+
+    .resune-righy p {
+        font-size: 10px;
+        line-height: 24px;
+
+    }
+
+    .div1 h6 {
+        font-size: 9px;
+
+        line-height: 26px;
+
+    }
+
+    .fastdiv h1 {
+        max-width: 100%;
+
+    }
+
+    .fastskils h1 {
+        max-width: 100%;
+        padding: 27px 0px;
+        font-size: 34px;
+    }
+
+    .subcc h1 {
+        font-size: 17px;
+    }
+
+    .subcc h6 {
+        font-size: 8px;
+    }
+
+    .subcc {
+        padding: 70px 7px;
+        margin: auto;
+    }
+
+    .littkelaft {
+
+        margin-bottom: 20px;
+    }
+
+    .fast-educat {
+
+        display: block;
+        padding: 21px;
+    }
+
+    .childdiv {
+
+        padding: 18px;
+        margin-right: 0px;
+
+    }
+
+    .sub44 input {
+
+        width: 100%;
+
+    }
+
+    .manu {
+
+        position: inherit;
+
+    }
+
+    .fastskils h1 {
+        max-width: 100% !important;
+
+        font-size: 19px;
+    }
+
+    .footer h3 {
+
+        font-size: 15px;
+    }
+
+    .fastdiv ul li {
+        padding: 43px 9px 26px 0px;
+        font-size: 8px;
+    }
+
+    .resune-righy {
+        padding: 18px;
+    }
+
+    .subitem {
+        padding: 15px;
+
+        
+    }
+    .hoverdiv {
+        
+        height: 91%;
+    }
+
+}
